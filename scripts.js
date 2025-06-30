@@ -96,6 +96,9 @@ r3=Math.floor(Math.random()*155)
       a12.addEventListener("click", () =>{
       p.style.clipPath="polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%)"
     })
+a13.addEventListener("click", () =>{
+      p.style.clipPath=" polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%)"
+    })
   
       a14.addEventListener("click", () =>{
       p.style.clipPath="polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%)"
